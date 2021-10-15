@@ -2,6 +2,8 @@
 
 ## I'm a Student, Athlete, Gamer, and Developer
 
+I love exercising, reading, playing Destiny, and writing code with friends.
+My profile is pretty empty now, but I hope to work on it over time!
 Connect with me on  [![LinkedIn][linkedinicon]][linkedin]!
 
 ### Languages and Tools I Use:
