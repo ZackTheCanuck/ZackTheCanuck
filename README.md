@@ -2,9 +2,7 @@
 
 ## I'm a Student, Athlete, Gamer, and Developer
 
-Connect with me on [![LinkedIn][linkedinicon]][linkedin]!
-
-<br />
+Connect with me on  [![LinkedIn][linkedinicon]][linkedin]!
 
 ### Languages and Tools I Use:
 
@@ -22,7 +20,7 @@ Connect with me on [![LinkedIn][linkedinicon]][linkedin]!
 
 ---
 
-[![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZackTheCanuck)](https://github.com/anuraghazra/github-readme-stats)
+[![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZackTheCanuck&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedinicon]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 [linkedin]: https://www.linkedin.com/in/zack-urbaniak/
